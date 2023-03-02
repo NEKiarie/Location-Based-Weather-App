@@ -7,6 +7,8 @@ This application is designed to allow you to track the current and future weathe
 This is an outlook of the app:
 
 ![Screenshot from 2023-03-01 13-20-23](https://user-images.githubusercontent.com/110089177/222365537-37d16158-7ba5-4bbe-b03e-eb032b55f90b.png)
+![Screenshot from 2023-03-02 11-11-20](https://user-images.githubusercontent.com/110089177/222369849-5471d33f-67c2-4d38-a527-cee9a1937022.png)
+
 
 ## Deliverables
 
