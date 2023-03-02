@@ -1,6 +1,6 @@
 # Location-Based-Weather-App
 
-This application designed to allow you to track the current and future weather of cities of your choosing.
+This application is designed to allow you to track the current and future weather of cities of your choosing.
 
 ## Demo
 
