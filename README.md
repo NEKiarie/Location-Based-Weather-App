@@ -1,4 +1,4 @@
-# Location-Based-Weather-App
+# MyWeather
 
 This application is designed to allow you to track the current and future weather of cities of your choosing.
 
